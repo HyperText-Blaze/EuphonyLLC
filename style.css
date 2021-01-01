@@ -52,11 +52,11 @@ section{ display: flex;  }
 
 .frontside { width: 14%; height: auto; overflow: hidden; margin-top: 60px;}
 
-.frontside img{  width: 210px;  height: 200px; padding-left:50px; }
+.frontside img{  width: 213px;  height: 190px; padding-left:50px; }
 
 .leftside{ width: 55%; height: 250px; color: rgb(255, 255, 255); text-align: center; margin-top: 50px; padding: 40px;}
 
-.leftsidee{ width: 55%; height: 250px; color: rgb(255, 255, 255); text-align: left; margin-top: 50px; padding: 40px;}
+.leftsidee{ width: 55%; height: 250px; color: rgb(0, 0, 0); text-align: left; margin-top: 50px; padding: 40px;}
 
 
 
@@ -67,7 +67,7 @@ section{ display: flex;  }
         text-transform: uppercase; } 
 
 .rightside h2{ text-align: center;
-        color: #ffffff;
+        color: #fffdfd;
         font-size: 30px;
         font-weight: 900;
         text-transform: uppercase; } 
@@ -79,19 +79,19 @@ section{ display: flex;  }
         text-transform: uppercase; } 
 
 .rightside h4{ text-align: center;
-    color: #ffffff;
+    color: #000000;
     font-size: 2.0rem; padding: 30px 0; 
     font-weight: 700;
     text-transform: uppercase; } 
 
 .rightside h5{ text-align: left;
-    color: #ffffff;
+    color: #000000;
     font-size: 40px;
     font-weight: 900;
     text-transform: uppercase; }
 
 .leftside h6{ text-align: center;
-        color: #ffffff;
+        color: #fff8f8;
         font-size: 40px;
         font-weight: 900;
         text-transform: uppercase; }
@@ -112,29 +112,45 @@ section{ display: flex;  }
     font-weight: 600;
     color: rgb(0, 0, 0);
     text-transform: uppercase;
-    background: linear-gradient(57deg, #000000 , #ffffff, #000000 ); 
+    background: linear-gradient(57deg, #7903ff , #00eeff, #0026fc ); 
     border-radius: 4px 4px 4px 4px;
-    padding: 15px 25px ; 
+    padding: 10px 25px ; 
+}
+
+.menu button{   font-size: 18px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    background: linear-gradient(57deg, #ffffff , #ffffff, #ffffff ); 
+    border-radius: 4px 4px 4px 4px;
+    padding: 10px 20px ; 
 }
 
 .leftsidee button{ 
     font-size: 18px;
     font-weight: 900;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-transform: uppercase;
-    background: linear-gradient(57deg, #03c4ff , #00dfaf, #002fff ); 
+    background: linear-gradient(57deg, #00ff95 , #008cff, #00ffff ); 
     border-radius: 4px 4px 4px 4px;
     padding: 20px 25px; 
     
 }
 
 .rightside button:hover{
-      background: linear-gradient(57deg, #2c2323, #ffffff, #2c2323 );   
+      background: linear-gradient(57deg, #00ff4c, #00ffdd, #00ff95 );   
 }
  footer{
      text-align: center;
      background-color: #333333;
      color: #ffffff;
      padding: 20px;
-}
+ }
 
+ header{
+    background-color: #333333;
+    color: #ffffff;
+    padding: 2px;
+}
+  
+ 
