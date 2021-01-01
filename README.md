@@ -5,3 +5,5 @@
 
 ``Anyways, I hope you like the website``
 **Work in Progress.**
+
+**Here's the site btw -** https://hypertext-blaze.github.io/Euphony-Web/
