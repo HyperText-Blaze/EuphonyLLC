@@ -6,5 +6,5 @@
 ``Anyways, I hope you like the website``
 
 
-**Here's the site btw -** https:ItsArchfiend//github.io/EuphonyLLC/
+**Here's the site btw -** https://ItsArchfiend.github.io/EuphonyLLC/
 **🔴 Work in Progress.**
